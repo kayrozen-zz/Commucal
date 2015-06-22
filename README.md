@@ -52,7 +52,7 @@ Si l'opération est un succès , il va marquer l'email comme lu.
 
 _version 1.0_
 
-- S'il y a modification ou annulation , il va changer événement.
+- S'il y a modification ou annulation , il va modifier / annuler l'événement.
 - Ajoute un message de rappel 15 minutes avant.
 - Fonctionne avec les courriels en français seulement à ce moment.
 
