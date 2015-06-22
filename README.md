@@ -4,7 +4,9 @@ Google script that parses reservation emails received in gmail from communauto a
 
 Prerequisite:
 
-- Add filter in gmail that adds a "Communauto" Label to all e-mails from:(noreply@communauto.com) and string "Voici les informations relatives à votre réservation numéro"
+- Add filter in gmail that adds a "Communauto" Label to all e-mails with these rules:
+-- from:(noreply@communauto.com) 
+-- string in text : "Voici les informations relatives à votre réservation numéro"
 
 Installation:
 
