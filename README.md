@@ -19,7 +19,7 @@ Installation:
 If operation is a success, it will mark email as read. 
 
 _Version 1.1_
-- Added station GPS coordinates in event 
+- Added station GPS coordinates in event (Quebec city only)
 
 _Version 1.0_
 
@@ -30,6 +30,8 @@ _Version 1.0_
 _TODO_
 
 - Add english support in email parsing
+- Add import and data wrangling xml->json of stations lists dynamically.
+- Add all cities
 
 --------------------------
 
@@ -52,7 +54,7 @@ Installation :
 Si l'opération est un succès , il va marquer l'email comme lu.
 
 _Version 1.1_
-- Ajout des coordonées GPS de la station dans le champ location de l'événement.
+- Ajout des coordonées GPS de la station dans le champ location de l'événement. (Ville de Québec seulement)
 
 _version 1.0_
 
@@ -63,3 +65,5 @@ _version 1.0_
 _à faire_
 
 - Support de la langue anglaise dans la récupération des données de l'email
+- Script pour faire l'import et la traduction xml->json des listes de stations dynamiquement
+- Ajouts des autres villes. 
