@@ -20,7 +20,7 @@ If operation is a success, it will mark email as read.
 
 _Version 1.0_
 
-- if modifying or cancelling, it will change event according so.
+- If modifying or cancelling, it will change event according so.
 - Adds a 15 minutes before reminder popup.
 - Works with emails in french only at this time. 
 
@@ -45,8 +45,8 @@ Préalable:
 Installation :
 
 - Soyez sûr que votre filtre au-dessus fonctionne .
-- copier / coller le fichier Code.gs dans un nouveau script vide dans les scripts de Google. ( Https://script.google.com )
-- Mettre en place un déclancheur pour exécuter un script toutes les 10 minutes . ( Http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
+- Copier / coller le fichier Code.gs dans un nouveau script vide dans les scripts de Google. ( https://script.google.com )
+- Mettre en place un déclancheur pour exécuter un script toutes les 10 minutes . ( http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
 
 Si l'opération est un succès , il va marquer l'email comme lu.
 
@@ -57,6 +57,6 @@ _version 1.0_
 - Fonctionne avec les courriels en français seulement à ce moment.
 
 
-_À FAIRE_
+_à faire_
 
 - Récupération de l'emplacement (long, lat) de la station via http://monstyledeville.net/ et mettre dans le cahmp Location  de l'évènment Calendrier.
