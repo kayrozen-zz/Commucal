@@ -44,7 +44,7 @@ Installation :
 
 - Soyez sûr que votre filtre au-dessus fonctionne .
 - Copier / coller le fichier Code.gs dans un nouveau script vide dans les scripts de Google. ( https://script.google.com )
-- Mettre en place un déclancheur pour exécuter un script toutes les 10 minutes . ( http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
+- Mettre en place un déclencheur pour exécuter le script toutes les 10 minutes . ( http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
 
 Si l'opération est un succès , il va marquer l'email comme lu.
 
