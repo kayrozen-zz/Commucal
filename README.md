@@ -1,6 +1,6 @@
 # Commucal
 
-Google script that parses reservation emails received in gmail from communauto and make/modify/removes an event in calendar.
+Google script that parses unread reservation emails received in gmail from communauto and make/modify/removes an event in calendar.
 
 Prerequisite:
 
