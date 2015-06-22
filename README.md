@@ -11,7 +11,7 @@ Prerequisite:
 Installation:
 
 - Be sure your filter above works.
-- Copy/paste code.gs in a new empty script in Google Scripts. ( https://scripts.google.com )
+- Copy/paste code.gs in a new empty script in Google Scripts. ( https://script.google.com )
 - Set up Trigger to run script every 10 minutes. ( http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
 
 If operation is a success, it will mark email as read. 
