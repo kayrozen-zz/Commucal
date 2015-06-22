@@ -1,6 +1,6 @@
 # Commucal
 
-Google script that parses emails received in gmail from communauto and make an event in calendar.
+Google script that parses reservation emails received in gmail from communauto and make/modify/removes an event in calendar.
 
 Prerequisite:
 
@@ -9,8 +9,8 @@ Prerequisite:
 Installation:
 
 - Be sure your filter above works.
-- Copy/paste code.gs in a new empty script in Google Scripts.
-- Set up Trigger to run script every 10 minutes
+- Copy/paste code.gs in a new empty script in Google Scripts. ( scripts.google.com )
+- Set up Trigger to run script every 10 minutes. ( http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
 
 If operation is a success, it will mark email as read. 
 
