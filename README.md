@@ -18,16 +18,14 @@ Installation:
 
 If operation is a success, it will mark email as read. 
 
+_Version 1.1_
+- Added station GPS coordinates in event 
+
 _Version 1.0_
 
 - If modifying or cancelling, it will change event according so.
 - Adds a 15 minutes before reminder popup.
 - Works with emails in french only at this time. 
-
-
-_TODO_
-
-- Get station location and retreive long, lat from http://monstyledeville.net/ to put in location field of calendar event.
 
 
 --------------------------
@@ -49,6 +47,9 @@ Installation :
 - Mettre en place un déclancheur pour exécuter un script toutes les 10 minutes . ( http://www.quora.com/How-can-I-periodically-run-a-Google-Script-on-a-Spreadsheet )
 
 Si l'opération est un succès , il va marquer l'email comme lu.
+
+_Version 1.1_
+- Ajout des coordonées GPS de la station dans le champ location de l'événement.
 
 _version 1.0_
 
