@@ -27,6 +27,9 @@ _Version 1.0_
 - Adds a 15 minutes before reminder popup.
 - Works with emails in french only at this time. 
 
+_TODO_
+
+- Add english support in email parsing
 
 --------------------------
 
@@ -57,7 +60,6 @@ _version 1.0_
 - Ajoute un message de rappel 15 minutes avant.
 - Fonctionne avec les courriels en français seulement à ce moment.
 
-
 _à faire_
 
-- Récupération de l'emplacement (long, lat) de la station via http://monstyledeville.net/ et mettre dans le cahmp Location  de l'évènment Calendrier.
+- Support de la langue anglaise dans la récupération des données de l'email
